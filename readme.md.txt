@@ -3,6 +3,7 @@
 
 We just commit html to train our git account.
 
+<<<<<<< HEAD
 
 ckaihcoiuagcoigevmnl
 
@@ -13,3 +14,17 @@ jv
 hodsvohsdpvohpsodhv
 
 sd;opvhopsihdvpsieohvoiuewghvpiwehf0pwiev
+=======
+ye
+r
+erer
+gr
+eger
+gewr
+ghetj
+ryk,f
+j,dr
+thfrd
+hrt
+reguguiudgf
+>>>>>>> master
